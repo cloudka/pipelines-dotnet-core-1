@@ -1,5 +1,5 @@
 # Sample ASP.NET Core application for Azure Pipelines docs
-
+[![Build Status](https://dev.azure.com/samiarahamane/AzureDevopsHero/_apis/build/status/cloudka.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/samiarahamane/AzureDevopsHero/_build/latest?definitionId=3&branchName=master)
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
 
 | Example | Build status |
